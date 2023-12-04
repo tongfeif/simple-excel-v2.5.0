@@ -1,19 +1,12 @@
 {
-    "name": "spatie/simple-excel",
+    "name": "tongfeif/simple-excel-v2.5.0",
     "description": "Read and write simple Excel and CSV files",
     "keywords": [
-        "spatie",
-        "simple-excel"
+        "simple-excel-v2.5.0"
     ],
-    "homepage": "https://github.com/spatie/simple-excel",
+    "homepage": "https://github.com/tongfeif/simple-excel-v2.5.0",
     "license": "MIT",
     "authors": [
-        {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
-            "homepage": "https://spatie.be",
-            "role": "Developer"
-        }
     ],
     "require": {
         "php": "~7.3.0 || ~7.4.0 || ~8.0.0 || ~8.1.0",
